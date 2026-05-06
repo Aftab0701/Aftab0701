@@ -2,196 +2,104 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,50:111827,100:1f2937&height=180&section=header&text=Shaik%20Aftab&fontSize=44&fontColor=E5E7EB&fontAlignY=38&desc=Systems%20Engineer%20·%20Product%20Design%20·%20Fintech&descSize=14&descAlignY=66&descColor=6B7280&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,50:111827,100:1f2937&height=170&section=header&text=Shaik%20Aftab&fontSize=42&fontColor=E5E7EB&fontAlignY=40&desc=Systems%20Engineer%20·%20Product%20Design%20·%20Fintech&descSize=13&descAlignY=68&descColor=6B7280" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3500&pause=1000&color=6B7280&center=true&vCenter=true&width=720&lines=Booting+system...;Loading+design+intelligence...;Aligning+engineering+%2B+UX...;System+ready." />
-
-</div>
-
-<br/>
-
-<!-- SYSTEM DASHBOARD -->
-<div align="center">
-
-<table width="80%">
-<tr>
-<td align="left">
-
-<pre>
-AFTAB/ENGINE — STATUS
-
-AI Systems         █████████░ 92%
-Product Design     ████████░░ 85%
-Automation         █████████░ 90%
-Cybersecurity      ███████░░░ 78%
-Fintech Systems    ████████░░ 83%
-
-Uptime   : Continuous
-Mode     : Build
-Focus    : Ecosystem
-</pre>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=12&duration=3200&pause=900&color=6B7280&center=true&vCenter=true&width=600&lines=Booting+system...;Aligning+engineering+%2B+UX...;Optimizing+for+clarity...;System+ready." />
 
 </div>
 
 ---
 
-<br/>
+<div align="center">
+
+<pre>
+AFTAB/ENGINE
+
+AI Systems        █████████░ 92%
+Product Design    ████████░░ 85%
+Automation        █████████░ 90%
+Cybersecurity     ███████░░░ 78%
+Fintech Systems   ████████░░ 83%
+
+Mode  : Build
+Focus : Ecosystems
+</pre>
+
+</div>
+
+---
 
 ### `system.overview()`
 
-I design and build systems where **engineering, product, and business logic operate as one unified layer**.
+I build systems where **engineering, product, and business logic operate as one layer**.
 
-- AI-driven architectures  
-- Automation systems  
-- Secure backend infrastructure  
-- Product interfaces grounded in behavior  
-
+AI systems · automation · secure infrastructure · product interfaces
 
 ---
-
-<br/>
 
 ### `stack.architecture`
 
-<br/>
-
-#### Intelligence & AI Layer
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Anthropic-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-#### Backend & Systems Layer
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,nextjs&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST%20APIs-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microservices-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/System%20Design-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-#### Data & Infrastructure
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,linux&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Redis-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Firebase-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud%20Architecture-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-#### Product & Interface
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,figma&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/UX%20Systems-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Design%20Systems-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Interaction%20Design-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-#### Automation & Workflow
-<div align="center">
-
-<img src="https://img.shields.io/badge/Zapier-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/n8n-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Make-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Webhooks-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-#### Security Layer
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Network%20Security-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Penetration%20Testing-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-#### Fintech Systems
-<div align="center">
-
-<img src="https://img.shields.io/badge/Payments%20APIs-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transaction%20Systems-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Risk%20Logic-0b0b0c?style=flat-square"/>
-<img src="https://img.shields.io/badge/Financial%20Workflows-0b0b0c?style=flat-square"/>
-
-</div>
-
----
-
-<br/>
-
-### `execution.modes`
-
-<div align="center">
-
-<table width="90%">
+<table>
 <tr>
 
-<td width="33%" valign="top">
+<td align="center">
 
-**Engineer**  
-AI systems, backend architecture, automation pipelines  
-
-</td>
-
-<td width="33%" valign="top">
-
-**Designer**  
-UX systems, interfaces, interaction logic  
+**AI / Intelligence**  
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" /><br/>
+<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anthropic-111111?style=flat-square"/>
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center">
 
-**Strategist**  
-Fintech systems, business logic, product ecosystems  
+**Backend / Systems**  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,nextjs&perline=3" /><br/>
+<img src="https://img.shields.io/badge/APIs-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-111111?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+**Data / Infra**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux&perline=4" /><br/>
+<img src="https://img.shields.io/badge/Redis-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-111111?style=flat-square"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+**Product / UX**  
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,figma&perline=4" /><br/>
+<img src="https://img.shields.io/badge/UX%20Systems-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design%20Systems-111111?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+**Automation / Security**  
+<img src="https://img.shields.io/badge/Zapier-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/n8n-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kali-111111?style=flat-square"/>
+
+</td>
+
+<td align="center">
+
+**Fintech**  
+<img src="https://img.shields.io/badge/Payments-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Risk%20Logic-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workflows-111111?style=flat-square"/>
 
 </td>
 
@@ -202,56 +110,30 @@ Fintech systems, business logic, product ecosystems
 
 ---
 
-<br/>
+### `execution.modes`
+
+| Engineer | Designer | Strategist |
+|----------|---------|------------|
+| AI systems, backend, automation | UX systems, interfaces | fintech logic, ecosystems |
+
+---
 
 ### `activity.stream()`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aftab0701&show_icons=true&theme=transparent&hide_border=true&title_color=9CA3AF&text_color=6B7280" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Aftab0701&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab0701&theme=transparent&hide_border=true" />
+<img height="150" src="https://streak-stats.demolab.com?user=Aftab0701&theme=transparent&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aftab0701&theme=github-compact&hide_border=true" />
 
 </div>
 
 ---
-
-<br/>
 
 ### `principles.sys`
-
-<pre>
-Clarity scales.
-Systems over features.
-Every layer must justify itself.
-Design is behavior, not decoration.
-Speed with structure.
-</pre>
-
----
-
-<br/>
-
-### `connect()`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/aftab0701">
-<img src="https://img.shields.io/badge/LinkedIn-0b0b0c?style=flat-square&logo=linkedin&logoColor=9CA3AF"/>
-</a>
-
-<a href="https://github.com/Aftab0701">
-<img src="https://img.shields.io/badge/GitHub-0b0b0c?style=flat-square&logo=github&logoColor=9CA3AF"/>
-</a>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0b0b0c&height=90&section=footer" />
-
-</div>
